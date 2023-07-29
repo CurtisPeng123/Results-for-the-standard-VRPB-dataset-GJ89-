@@ -5,5 +5,8 @@ The .xlsx file contains the test results for the standard vehicle routing proble
 
 
 Reference:
+
+
 Goetschalckx, M., & Jacobs-Blecha, C. (1989). The vehicle routing problem with backhauls. European Journal of Operational Research, 42(1), 39-51.
+
 Koç, Ç., & Laporte, G. (2018). Vehicle routing with backhauls: Review and research perspectives. Computers & Operations Research, 91, 79-91.
