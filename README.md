@@ -1,7 +1,7 @@
 # Results-for-the-standard-VRPB-dataset-GJ89-
 Results for the standard VRPB dataset (GJ89)
 
-The .xlsx file contains the test results for the standard vehicle routing problem with backhauls (VRPS) (Goetschalckx and Jacobs-Blecha, 1989). The test results are compared with the best-known results (BKS) obtained from Koç and Laporte (2018). The detailed routes are recorded in the column "BEST_Results". The format of routes is a dictionary. Additionally, the routes provide the visit sequences of customers (the depot node is not shown in the routes). 
+The .xlsx file contains the test results for the standard vehicle routing problem with backhauls (VRPS) (Goetschalckx and Jacobs-Blecha, 1989). The test results are compared with the best-known results (BKS) obtained from Koç and Laporte (2018). The detailed routes are recorded in the column "BEST_Results". The format of routes is a dictionary. Additionally, the routes provide the visit sequences of customers (the depot node is not shown). 
 
 
 Reference:
